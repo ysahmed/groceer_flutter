@@ -8,5 +8,7 @@ UI inspiration: https://dribbble.com/shots/18876097-Grocery-Shop-UI
 
 
 
-https://github.com/ysahmed/groceer_flutter/assets/31134625/bd63f8d7-9832-49f1-86b1-e4adee6fb3d6
+
+
+https://github.com/ysahmed/groceer_flutter/assets/31134625/0f51003a-145e-4cce-8e2e-5aba30be55af
 
