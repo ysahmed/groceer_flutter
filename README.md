@@ -6,7 +6,5 @@ UI inspiration: https://dribbble.com/shots/18876097-Grocery-Shop-UI
 
 ## preview
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RGSIQ5LoKuU/0.jpg)](https://youtube.com/shorts/Q8-m2oJ6Aqs)
+https://github.com/ysahmed/groceer_flutter/assets/31134625/3fbee95f-caad-4f32-b7a9-e9f8196e7ab5
 
-[![Groceer - grocery shop app]  
-(https://www.youtube.com/shorts/Q8-m2oJ6Aqs "Groceer preview")
