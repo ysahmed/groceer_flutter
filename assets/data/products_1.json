@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "price": 1.99,
+        "image": "apple.jpg",
+        "description": "Fresh and crisp apple."
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "price": 0.99,
+        "image": "banana.jpg",
+        "description": "Ripe and yellow banana."
+    },
+    {
+        "id": 3,
+        "name": "Carrot",
+        "price": 0.79,
+        "image": "carrot.jpg",
+        "description": "Organic carrots, great for salads."
+    },
+    {
+        "id": 4,
+        "name": "Milk",
+        "price": 2.49,
+        "image": "milk.jpg",
+        "description": "Fresh dairy milk."
+    },
+    {
+        "id": 5,
+        "name": "Eggs",
+        "price": 2.99,
+        "image": "eggs.jpg",
+        "description": "Farm-fresh eggs."
+    },
+    {
+        "id": 6,
+        "name": "Bread",
+        "price": 2.29,
+        "image": "bread.jpg",
+        "description": "Whole wheat bread loaf."
+    },
+    {
+        "id": 7,
+        "name": "Rice",
+        "price": 3.99,
+        "image": "rice.jpg",
+        "description": "Long-grain white rice."
+    },
+    {
+        "id": 8,
+        "name": "Chicken",
+        "price": 6.49,
+        "image": "chicken.jpg",
+        "description": "Boneless chicken breasts."
+    },
+    {
+        "id": 9,
+        "name": "Spinach",
+        "price": 1.49,
+        "image": "spinach.jpg",
+        "description": "Fresh spinach leaves."
+    },
+    {
+        "id": 10,
+        "name": "Tomato",
+        "price": 0.69,
+        "image": "tomato.jpg",
+        "description": "Vine-ripened tomatoes."
+    },
+    {
+        "id": 11,
+        "name": "Potato",
+        "price": 0.89,
+        "image": "potato.jpg",
+        "description": "Red potatoes."
+    },
+    {
+        "id": 12,
+        "name": "Onion",
+        "price": 0.59,
+        "image": "onion.jpg",
+        "description": "Yellow onions."
+    },
+    {
+        "id": 13,
+        "name": "Orange",
+        "price": 1.49,
+        "image": "orange.jpg",
+        "description": "Sweet and juicy oranges."
+    },
+    {
+        "id": 14,
+        "name": "Grapes",
+        "price": 2.99,
+        "image": "grapes.jpg",
+        "description": "Seedless grapes."
+    },
+    {
+        "id": 15,
+        "name": "Cucumber",
+        "price": 0.79,
+        "image": "cucumber.jpg",
+        "description": "Crisp and refreshing cucumbers."
+    },
+    {
+        "id": 16,
+        "name": "Salmon",
+        "price": 8.99,
+        "image": "salmon.jpg",
+        "description": "Fresh salmon fillet."
+    },
+    {
+        "id": 17,
+        "name": "Pasta",
+        "price": 1.19,
+        "image": "pasta.jpg",
+        "description": "Italian pasta."
+    },
+    {
+        "id": 18,
+        "name": "Lettuce",
+        "price": 1.29,
+        "image": "lettuce.jpg",
+        "description": "Crisp iceberg lettuce."
+    },
+    {
+        "id": 19,
+        "name": "Cheese",
+        "price": 3.49,
+        "image": "cheese.jpg",
+        "description": "Cheddar cheese block."
+    },
+    {
+        "id": 20,
+        "name": "Bacon",
+        "price": 4.99,
+        "image": "bacon.jpg",
+        "description": "Smoked bacon strips."
+    },
+    {
+        "id": 21,
+        "name": "Yogurt",
+        "price": 1.99,
+        "image": "yogurt.jpg",
+        "description": "Greek yogurt."
+    },
+    {
+        "id": 22,
+        "name": "Cereal",
+        "price": 2.79,
+        "image": "cereal.jpg",
+        "description": "Whole grain cereal."
+    },
+    {
+        "id": 23,
+        "name": "Coffee",
+        "price": 5.49,
+        "image": "coffee.jpg",
+        "description": "Ground coffee beans."
+    },
+    {
+        "id": 24,
+        "name": "Tea",
+        "price": 2.99,
+        "image": "tea.jpg",
+        "description": "Black tea bags."
+    },
+    {
+        "id": 25,
+        "name": "Peanut Butter",
+        "price": 3.29,
+        "image": "peanut_butter.jpg",
+        "description": "Creamy peanut butter."
+    }
+]

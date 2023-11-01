@@ -1,0 +1,86 @@
+[
+    {
+        "id": 7,
+        "name": "Carrot",
+        "price": 0.88,
+        "image": "assets/images/carrot.png",
+        "description": "Fresh red carrot."
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "price": 0.99,
+        "image": "assets/images/banana.png",
+        "description": "Ripe and yellow banana."
+    },
+    {
+        "id": 3,
+        "name": "Chicken",
+        "price": 3.79,
+        "image": "assets/images/chicken.png",
+        "description": "Organic chicken."
+    },
+    {
+        "id": 1,
+        "name": "Avocado",
+        "price": 1.99,
+        "image": "assets/images/avocado.png",
+        "description": "Fresh ripe avocado."
+    },
+    {
+        "id": 5,
+        "name": "Chilli",
+        "price": 0.99,
+        "image": "assets/images/chilli.png",
+        "description": "Red hot chilli."
+    },
+    {
+        "id": 6,
+        "name": "Olive Oil",
+        "price": 4.99,
+        "image": "assets/images/oliveoil.png",
+        "description": "Italian virgin olive oil 250ml."
+    },
+    {
+        "id": 8,
+        "name": "Papaya",
+        "price": 1.99,
+        "image": "assets/images/papaya.png",
+        "description": "Ripe sweet papaya."
+    },
+    {
+        "id": 9,
+        "name": "Onion",
+        "price": 5.99,
+        "image": "assets/images/onion.png",
+        "description": "Golden onion."
+    },
+    {
+        "id": 10,
+        "name": "Apple (Red)",
+        "price": 2.99,
+        "image": "assets/images/apple.png",
+        "description": "Fresh red apple x3."
+    },
+    {
+        "id": 11,
+        "name": "Apple (Green)",
+        "price": 2.99,
+        "image": "assets/images/apple_green.png",
+        "description": "Fresh green apple x3."
+    },
+    {
+        "id": 4,
+        "name": "Water",
+        "price": 1.99,
+        "image": "assets/images/water.png",
+        "description": "Fresh bottled water."
+    },
+    {
+        "id": 12,
+        "name": "Hand-wash",
+        "price": 1.45,
+        "image": "assets/images/handwash.png",
+        "description": "250ml hand-wash with pump."
+    }
+]
